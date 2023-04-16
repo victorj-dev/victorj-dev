@@ -13,13 +13,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Olá! Eu sou João Victor 👋
+### Olá! Eu sou João Victor  👋
 <br>
-- 🔭 Desenvolvedor Front-end <br>
-- 🌱 Estudando JavaScript <br>
+ 🔭 Desenvolvedor Front-end <br>
+ 🌱 Estudando JavaScript <br>
 <br>
 
 ![Victorj-dev GitHub stats](https://github-readme-stats.vercel.app/api?username=victorj-dev&theme=dark&show_icons=true)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que uso no meu dia
 
